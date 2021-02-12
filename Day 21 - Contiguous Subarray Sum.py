@@ -26,5 +26,3 @@ if subArraySum(arr, n, key):
     print('Yes there is a subarray that sums up to', key)
 else:
     print('No subarray')
-
-# This code is Contributed by shreyanshi_arun. 
